@@ -22,7 +22,7 @@ public class PongPanel extends JPanel implements ActionListener, KeyListener {
 	 Paddle paddle1;
 	 Paddle paddle2;
 	 
-	 private final static int BALL_MOVEMENT_SPEED = 3;
+	 private final static int BALL_MOVEMENT_SPEED = 4;
 	 
 	  private final static int POINTS_TO_WIN = 11;
 	  int player1Score = 0, player2Score = 0;
