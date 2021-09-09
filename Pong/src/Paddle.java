@@ -4,7 +4,7 @@ public class Paddle extends Sprite {
 
 	private static final int PADDLE_WIDTH = 10;
 	private static final int PADDLE_HEIGHT = 100;
-	private static final Color PADDLE_COLOUR = Color.GREEN;
+	private static final Color PADDLE_COLOUR = Color.YELLOW;
 	private static final int PADDLE_EDGE_DISTANCE = 40;
 	
 	
